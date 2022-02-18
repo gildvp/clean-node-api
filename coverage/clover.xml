@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1645149034694" clover="3.2.0">
+  <project timestamp="1645149034694" name="All files">
+    <metrics statements="65" coveredstatements="42" conditionals="27" coveredconditionals="14" methods="9" coveredmethods="5" elements="101" coveredelements="61" complexity="0" loc="65" ncloc="65" packages="5" files="6" classes="6"/>
+    <package name="domain.models">
+      <metrics statements="6" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="account.ts" path="/home/gildev/Desktop/nodedev/clean-node-api/src/domain/models/account.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="domain.usecases">
+      <metrics statements="11" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="add-account.ts" path="/home/gildev/Desktop/nodedev/clean-node-api/src/domain/usecases/add-account.ts">
+        <metrics statements="11" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="presentation.controllers.signup">
+      <metrics statements="43" coveredstatements="39" conditionals="9" coveredconditionals="8" methods="3" coveredmethods="2"/>
+      <file name="signup-protocols.ts" path="/home/gildev/Desktop/nodedev/clean-node-api/src/presentation/controllers/signup/signup-protocols.ts">
+        <metrics statements="4" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="signup.ts" path="/home/gildev/Desktop/nodedev/clean-node-api/src/presentation/controllers/signup/signup.ts">
+        <metrics statements="39" coveredstatements="39" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="34" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="34" type="stmt"/>
+        <line num="22" count="10" type="stmt"/>
+        <line num="23" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="27" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="10" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="32" count="10" type="stmt"/>
+        <line num="33" count="10" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="35" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="10" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="presentation.errors">
+      <metrics statements="3" coveredstatements="3" conditionals="15" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="index.ts" path="/home/gildev/Desktop/nodedev/clean-node-api/src/presentation/errors/index.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="15" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="1" count="4" type="cond" truecount="2" falsecount="3"/>
+        <line num="2" count="8" type="cond" truecount="2" falsecount="3"/>
+        <line num="3" count="2" type="cond" truecount="2" falsecount="3"/>
+      </file>
+    </package>
+    <package name="presentation.protocols">
+      <metrics statements="2" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.ts" path="/home/gildev/Desktop/nodedev/clean-node-api/src/presentation/protocols/index.ts">
+        <metrics statements="2" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
